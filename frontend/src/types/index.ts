@@ -4,3 +4,4 @@ export * from './trip';
 export * from './maintenance';
 export * from './zone';
 export * from './alert';
+export * from './fuel';
